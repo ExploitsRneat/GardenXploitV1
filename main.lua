@@ -151,3 +151,8 @@ harvestEvent.OnServerEvent:Connect(function(player, plot)
         end
     end
 end)
+
+print("🌱 GardenXploitV1 loaded successfully!")
+while true do
+    wait(5)
+end
